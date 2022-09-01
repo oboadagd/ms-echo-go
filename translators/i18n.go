@@ -1,7 +1,7 @@
 package translators
 
 import (
-	"github.com/laironacosta/ms-echo-go/enums"
+	"github.com/oboadagd/ms-echo-go/enums"
 	"sync"
 )
 

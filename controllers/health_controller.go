@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/laironacosta/ms-echo-go/controllers/dto"
+	"github.com/oboadagd/ms-echo-go/controllers/dto"
 	"net/http"
 )
 

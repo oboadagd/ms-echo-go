@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 	"github.com/go-pg/pg/v10"
-	respKit "github.com/laironacosta/kit-go/middleware/responses"
-	"github.com/laironacosta/ms-echo-go/controllers/dto"
-	"github.com/laironacosta/ms-echo-go/enums"
+	respKit "github.com/oboadagd/kit-go/middleware/responses"
+	"github.com/oboadagd/ms-echo-go/controllers/dto"
+	"github.com/oboadagd/ms-echo-go/enums"
 	"strings"
 )
 

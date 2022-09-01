@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/gommon/log"
-	respKit "github.com/laironacosta/kit-go/middleware/responses"
-	"github.com/laironacosta/ms-echo-go/controllers/dto"
-	"github.com/laironacosta/ms-echo-go/enums"
-	"github.com/laironacosta/ms-echo-go/services"
-	"github.com/laironacosta/ms-echo-go/translators"
+	respKit "github.com/oboadagd/kit-go/middleware/responses"
+	"github.com/oboadagd/ms-echo-go/controllers/dto"
+	"github.com/oboadagd/ms-echo-go/enums"
+	"github.com/oboadagd/ms-echo-go/services"
+	"github.com/oboadagd/ms-echo-go/translators"
 	"net/http"
 )
 

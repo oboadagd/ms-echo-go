@@ -2,9 +2,9 @@ package router
 
 import (
 	"github.com/labstack/echo/v4"
-	middleKit "github.com/laironacosta/kit-go/middleware/echo"
-	"github.com/laironacosta/ms-echo-go/controllers"
-	"github.com/laironacosta/ms-echo-go/middlewares"
+	middleKit "github.com/oboadagd/kit-go/middleware/echo"
+	"github.com/oboadagd/ms-echo-go/controllers"
+	"github.com/oboadagd/ms-echo-go/middlewares"
 )
 
 type Router struct {

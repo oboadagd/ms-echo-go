@@ -1,4 +1,4 @@
-module github.com/laironacosta/ms-echo-go
+module github.com/oboadagd/ms-echo-go
 
 go 1.16
 
@@ -9,8 +9,8 @@ require (
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/labstack/echo/v4 v4.8.0
 	github.com/labstack/gommon v0.3.1
-	github.com/laironacosta/kit-go v1.1.3
 	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/oboadagd/kit-go v1.1.3 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/vmihailenco/msgpack/v5 v5.3.5 // indirect

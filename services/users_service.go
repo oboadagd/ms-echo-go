@@ -2,10 +2,10 @@ package services
 
 import (
 	"context"
-	respKit "github.com/laironacosta/kit-go/middleware/responses"
-	"github.com/laironacosta/ms-echo-go/controllers/dto"
-	"github.com/laironacosta/ms-echo-go/enums"
-	repo "github.com/laironacosta/ms-echo-go/repository"
+	respKit "github.com/oboadagd/kit-go/middleware/responses"
+	"github.com/oboadagd/ms-echo-go/controllers/dto"
+	"github.com/oboadagd/ms-echo-go/enums"
+	repo "github.com/oboadagd/ms-echo-go/repository"
 	"strings"
 )
 

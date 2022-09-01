@@ -3,8 +3,8 @@ package middlewares
 import (
 	"context"
 	"github.com/labstack/echo/v4"
-	"github.com/laironacosta/ms-echo-go/enums"
-	"github.com/laironacosta/ms-echo-go/translators"
+	"github.com/oboadagd/ms-echo-go/enums"
+	"github.com/oboadagd/ms-echo-go/translators"
 )
 
 type (
